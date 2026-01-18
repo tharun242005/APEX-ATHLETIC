@@ -140,6 +140,7 @@ src/
 ├── AuthPage.tsx                 # Authentication (login/signup) page
 ├── UploadPage.tsx               # Video upload interface
 ├── main.tsx                     # React entry point
+├── Database
 ├── components/
 │   ├── dashboard/
 │   │   ├── DashboardLayout.tsx  # Main dashboard container with navigation
